@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android_Week11_RadioButtons</string>
+
+    <string name="rb1">Usd To Argentine Peso</string>
+    <string name="rb2">Argentine Peso To Usd</string>
+
+
+    <string name="conbut">Convert</string>
+
+
+</resources>
